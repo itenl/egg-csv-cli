@@ -6,7 +6,7 @@ $ npm i egg-csv-cli -g
 ```
 
 
-## What csv
+## What egg-csv
 
 ```javascript
 c => controller
@@ -18,21 +18,21 @@ v => view
 
 create a new controller
 ```bash
-$ csv g c list
+$ egg-csv g c list
 or
-$ csv g c activity/list
+$ egg-csv g c activity/list
 ```
 create a new service
 ```bash
-$ csv g s list
+$ egg-csv g s list
 or
-$ csv g s activity/list
+$ egg-csv g s activity/list
 ```
 create a new view
 ```bash
-$ csv g v list
+$ egg-csv g v list
 or
-$ csv g v activity/list
+$ egg-csv g v activity/list
 ```
 
 ```
