@@ -2,7 +2,7 @@
   "name": "egg-csv-cli",
   "version": "1.0.1",
   "description": "Quickly create templates by project",
-  "main": "index.js",
+  "main": "n/a",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,5 +26,12 @@
   "bugs": {
     "url": "https://github.com/itenl/egg-csv-cli/issues"
   },
-  "homepage": "https://github.com/itenl/egg-csv-cli#readme"
+  "homepage": "https://github.com/itenl/egg-csv-cli#readme",
+  "keywords": [
+    "node",
+    "egg",
+    "node-egg",
+    "template",
+    "csv"
+  ]
 }
