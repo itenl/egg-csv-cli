@@ -42,6 +42,7 @@ const generateCreate = (dirPath, sourcefile, name) => {
 };
 
 exports.invoke = (type, name) => {
+  name = (typeof name === 'string' && name) || 'index';
   let dirPath = '',
     sourcefile = '';
   switch (type) {
